@@ -14,3 +14,11 @@
 | push | This command used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo. It's the counterpart to git fetch , but whereas fetching imports commits to local branches, pushing exports commits to remote branches |
 | repository | A repository contains all of your project's files and each file's revision history. You can discuss and manage your project's work within the repository.You can own repositories individually, or you can share ownership of repositories with other people in an organization.You can restrict who has access to a repository by choosing the repository's visibility. |
 | stash | The git stash command takes your uncommitted changes (both staged and unstaged), saves them away for later use, and then reverts them from your working copy |
+
+
+
+| Word      | Definition |
+| ----------- | ----------- |
+| clone | Clone command is used to create a copy of a remote repository. |
+| Rebase | Rebase is to aused to apply a sequence of commits from distinct branches into a final commit. |
+| Cherrypick | Cherrypick allows you to integrate selected, individual commits from any branch into your current branch. |
